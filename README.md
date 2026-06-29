@@ -74,7 +74,7 @@ The objective is to support data-driven decision-making for improving road safet
 
 ## 📊 Dashboard Preview
 
-![Dashboard](ROAD CAR ACCIDENT DASHBOARD.png)
+![Dashboard](ROAD CAR ACCIDENT DASHBOARD.jpeg)
 
 ---
 
@@ -82,7 +82,7 @@ The objective is to support data-driven decision-making for improving road safet
 
 👉 **Download the Excel Dashboard**
 
-[ROAD ACCIDENT DASHBOARD.xlsm](./ROAD%20ACCIDENT%20DASHBOARD.xlsb)
+[(./ROAD%20ACCIDENT%20DASHBOARD.xlsb)](https://drive.google.com/file/d/1YnqLgEW9lLdZKCWGo46dSSSEFEsVOnAo/view)
 
 ---
 
