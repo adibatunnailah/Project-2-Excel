@@ -1,8 +1,8 @@
 # 🚗 Road Accident Dashboard
 
-An interactive Microsoft Excel dashboard that analyzes road accident casualty data to identify accident patterns, casualty severity, and environmental factors affecting road safety.
+An interactive dashboard that analyzes road accident casualty data to identify accident patterns, casualty severity, and environmental factors affecting road safety.
 
-This project demonstrates data cleaning, KPI reporting, Pivot Table analysis, dashboard development, and VBA automation using Microsoft Excel.
+This project demonstrates data cleaning, KPI reporting, Pivot Table analysis, and dashboard development using Microsoft Excel.
 
 ---
 
@@ -40,7 +40,7 @@ The objective is to support data-driven decision-making for improving road safet
 
 ## 📂 Dataset Overview
 
-- **Source:** UK Road Accident Dataset (Learning & Portfolio Project)
+- **Source:** Road Accident Dataset
 - **Records:** 417,883 casualty records
 - **Period:** 2021–2022
 - **Format:** CSV
